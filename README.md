@@ -1,6 +1,6 @@
 # Jogo da Velha em Java - Projeto de Treinamento em POO
 
-Este é um projeto de treinamento em Programação Orientada a Objetos (POO) desenvolvido em Java, com o objetivo de criar o clássico jogo da velha.
+Este é um projeto de treinamento e estudos em Programação Orientada a Objetos (POO) desenvolvido em Java, com o objetivo de criar o clássico jogo da velha.
 
 ## Descrição
 
