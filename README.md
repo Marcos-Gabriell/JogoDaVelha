@@ -27,7 +27,6 @@ Antes de começar, você precisará ter os seguintes componentes instalados em s
 
 Certifique-se de ter uma das IDEs acima instalada para facilitar o desenvolvimento e a execução do projeto.
 
-
 ## Como Usar
 
 1. Clone este repositório para o seu sistema local:
